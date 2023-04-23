@@ -6,7 +6,7 @@
 
 <p align="center">I am <strong>Back-end Developer</strong> with 1 years of experience.<br />¡Go to my LinkedIn 👇!</p>
 <p align="center">
-   <a href="https://www.linkedin.com/in/carlos-mendoza-g%C3%B3mez-149594204/" target="blank" style='margin-right:4px'>
+   <a href="https://www.linkedin.com/in/carlos-mendoza-g%C3%B3mez-149594204/" target="_blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Carlos Andres Mendoza" height="28px" width="28px" />
   </a>
 </p>
