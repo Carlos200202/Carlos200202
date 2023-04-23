@@ -7,7 +7,7 @@
 <p align="center">I am <strong>Back-end Developer</strong> with 1 years of experience.<br />¡Go to my Profiles 👇!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/carlos-mendoza-g%C3%B3mez-149594204/" target="_blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Carlos Andres Mendoza" height="30px" width="30px" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Carlos Andres Mendoza" height="30px" width="30px" />
   </a>
  <a href="https://app.aluracursos.com/user/andres-mendoza022002" target="_blank" style='margin-right:4px'>
     <img align="center" src="https://app.aluracursos.com/assets/images/logos/logo-aluraespanhol.svg" alt="Carlos Andres Mendoza" height="30px" width="30px" />
