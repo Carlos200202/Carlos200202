@@ -1,6 +1,6 @@
  
 <p align="center" width="300">
-   <img align="center" width="200" styles="boder-radius: 50%" src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png" />
+   <img align="center" width="200" style="border-radius: 50%;" src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png" />
    <h3 align="center">¡Hi there 👋! I'm Carlos 👨🏻‍💻</h3>
 </p>
 
