@@ -13,10 +13,10 @@
     <img align="center" src="https://app.aluracursos.com/assets/images/logos/logo-aluraespanhol.svg" alt="Carlos Andres Mendoza" height="30px" width="30px" />
   </a>
 </p>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos200202&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos200202&layout=compact&langs_count=7&theme=dark"/>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos200202&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos200202&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <!--
 **Carlos200202/Carlos200202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
